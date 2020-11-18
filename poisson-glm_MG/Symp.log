@@ -1,0 +1,141 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\asus\Desktop\Symp.log
+  log type:  text
+ opened on:   8 Nov 2020, 00:25:24
+
+. . glm symptomsedit i.v_sympindex b2.v_age i.v_sex i.v_comorb , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      3404
+Optimization     : ML                              Residual df     =      3395
+                                                   Scale parameter =         1
+Deviance         =  1302.206791                    (1/df) Deviance =  .3835661
+Pearson          =  3089.740894                    (1/df) Pearson  =  .9100857
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .5688034
+Log pseudolikelihood = -959.1033956                BIC             = -26308.33
+
+------------------------------------------------------------------------------
+             |               Robust
+symptomsedit |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+ v_sympindex |
+          1  |   8.160038   3.781181     4.53   0.000     3.290518    20.23579
+          2  |   7.114943   3.213125     4.34   0.000     2.936073    17.24154
+             |
+  v_agebroad |
+         0-  |   .4639561   .2070615    -1.72   0.085     .1934593    1.112664
+         6-  |   .3914291   .0980671    -3.74   0.000     .2395502    .6396019
+        45-  |   2.240409   .2718653     6.65   0.000     1.766189    2.841956
+        65-  |   4.458105   .6393183    10.42   0.000     3.365759    5.904968
+             |
+     1.v_sex |   1.295535   .1466602     2.29   0.022     1.037743    1.617369
+  1.v_comorb |   1.126502   .1194815     1.12   0.261     .9150611    1.386801
+       _cons |   .0091671   .0042152   -10.20   0.000     .0037225     .022575
+------------------------------------------------------------------------------
+
+. . glm symptomsedit i.v_sympindex, fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      3404
+Optimization     : ML                              Residual df     =      3401
+                                                   Scale parameter =         1
+Deviance         =  1436.963933                    (1/df) Deviance =  .4225122
+Pearson          =  3095.999702                    (1/df) Pearson  =  .9103204
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =   .604866
+Log pseudolikelihood = -1026.481967                BIC             = -26222.37
+
+------------------------------------------------------------------------------
+             |               Robust
+symptomsedit |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+ v_sympindex |
+          1  |   8.945048   4.131641     4.74   0.000     3.617595    22.11797
+          2  |   7.115931   3.190291     4.38   0.000      2.95537    17.13372
+             |
+       _cons |   .0135135   .0060033    -9.69   0.000     .0056575    .0322784
+------------------------------------------------------------------------------
+
+. . glm symptomsedit b2.v_age, fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      3404
+Optimization     : ML                              Residual df     =      3399
+                                                   Scale parameter =         1
+Deviance         =  1350.036463                    (1/df) Deviance =  .3971864
+Pearson          =  3095.999943                    (1/df) Pearson  =  .9108561
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .5805042
+Log pseudolikelihood = -983.0182315                BIC             = -26293.03
+
+------------------------------------------------------------------------------
+             |               Robust
+symptomsedit |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  v_agebroad |
+         0-  |   .4554562   .2034792    -1.76   0.078     .1897425    1.093273
+         6-  |   .3781345   .0953011    -3.86   0.000     .2307376    .6196896
+        45-  |   2.255227   .2762492     6.64   0.000      1.77388    2.867189
+        65-  |   4.532139   .6626702    10.34   0.000      3.40286    6.036182
+             |
+       _cons |   .0746803   .0059462   -32.59   0.000     .0638898    .0872932
+------------------------------------------------------------------------------
+
+. . glm symptomsedit  i.v_sex , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      3404
+Optimization     : ML                              Residual df     =      3402
+                                                   Scale parameter =         1
+Deviance         =  1473.527906                    (1/df) Deviance =  .4331358
+Pearson          =  3095.999996                    (1/df) Pearson  =  .9100529
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .6150199
+Log pseudolikelihood = -1044.763953                BIC             = -26193.94
+
+------------------------------------------------------------------------------
+             |               Robust
+symptomsedit |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+     1.v_sex |   1.359147   .1597295     2.61   0.009     1.079522    1.711202
+       _cons |   .0741024   .0072409   -26.63   0.000     .0611867    .0897443
+------------------------------------------------------------------------------
+
+. . glm symptomsedit 1.v_comorb , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      3404
+Optimization     : ML                              Residual df     =      3402
+                                                   Scale parameter =         1
+Deviance         =  1472.482345                    (1/df) Deviance =  .4328284
+Pearson          =  3095.999998                    (1/df) Pearson  =  .9100529
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .6147128
+Log pseudolikelihood = -1044.241173                BIC             = -26194.99
+
+------------------------------------------------------------------------------
+             |               Robust
+symptomsedit |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  1.v_comorb |   1.386641   .1544343     2.94   0.003     1.114714    1.724904
+       _cons |   .0808979   .0056126   -36.24   0.000     .0706125    .0926815
+------------------------------------------------------------------------------
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\asus\Desktop\Symp.log
+  log type:  text
+ closed on:   8 Nov 2020, 00:26:26
+---------------------------------------------------------------------------------------------------------------------------------------------------------

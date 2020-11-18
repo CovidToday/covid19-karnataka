@@ -1,0 +1,78 @@
+﻿ID,children_sec,children_all,children_pri,cluster_id,cluster_3,cluster_size,common_exposure,dt_conf,age,age_class,AgeBins(Large),sex,City,State,Category_deprecated,cat_4,cat_2,cluster_final,Cluster,Reason,D,parentid,haschildren,RE,dt_out
+Ph,,,,,,,,,,Pharma Company ,,,,,,,,,,,,,,,
+52,9,24,15,42,pharma,32,pharma,26-Mar,35,30-39,20-39,M,Mysore,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,Contact with Health Workers,,Ph,1,,11.04.2020
+77,,1,1,54,pharma,2,pharma,29-Mar,39,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,1,,18.04.2020
+78,,2,2,55,pharma,3,pharma,29-Mar,38,30-39,20-39,M,Mysore,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,1,,12.04.2020
+79,,0,0,56,pharma,1,pharma,29-Mar,21,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,12.04.2020
+80,,0,0,57,pharma,1,pharma,29-Mar,31,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,18.04.2020
+81,,1,1,58,pharma,2,pharma,29-Mar,42,40-49,40-59,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,1,,12.04.2020
+85,,1,1,61,pharma,2,pharma,30-Mar,32,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,1,,12.04.2020
+86,,0,0,62,pharma,1,pharma,30-Mar,34,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,12.04.2020
+87,,0,0,63,pharma,1,pharma,30-Mar,21,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,14.04.2020
+88,,8,8,64,pharma,10,pharma,30-Mar,24,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,1,,12.04.2020
+95,,0,0,42,pharma,32,,31-Mar,35,30-39,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,52,0,,13.04.2020
+96,,0,0,42,pharma,32,,31-Mar,41,40-49,40-59,M,Mysore,Karnataka,Traced,Local Traced,,,,,,52,0,,18.04.2020
+103,,4,4,73,pharma,6,pharma,01-Apr,37,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,      ,,Ph,1,,26.04.2020
+104,,1,1,74,pharma,4,pharma,01-Apr,27,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,      ,,Ph,1,,19.04.2020
+105,,0,0,73,pharma,6,,01-Apr,33,30-39,20-39,M,Mysore but resident of Bangalore,Karnataka,Traced,Local Traced,,,,,,103,0,,14.04.2020
+109,,1,1,42,pharma,32,,01-Apr,63,60-69,60+,M,Mysore,Karnataka,Traced,Local Traced,,,,,,52,1,,18.04.2020
+110,,0,0,42,pharma,32,,01-Apr,27,20-29,20-39,F,Mysore,Karnataka,Traced,Local Traced,,,,,,52,0,,18.04.2020
+111,,1,1,64,pharma,10,,02-Apr,24,20-29,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,Roommate,,88,1,,25.04.2020
+112,,0,0,64,pharma,10,,02-Apr,22,20-29,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,Roommate,,88,0,,18.04.2020
+113,,0,0,58,pharma,2,,02-Apr,14,10-19,0-19,M,Bellary,Karnataka,Traced,Local Traced,,,,Son,,81,0,,13.05.2020
+140,,0,0,42,pharma,32,,04-Apr,34,30-39,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,109,0,,28.04.2020
+154,,1,1,74,pharma,4,,06-Apr,20,20-29,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,Brother,,104,1,,21.04.2020
+159,,1,1,73,pharma,6,,06-Apr,32,30-39,20-39,F,Mysore,Karnataka,Pharma Company ,Local Traced,,,Pharmaceutical Company in Nanjangud,,,103,1,,28.04.2020
+183,,1,1,74,pharma,4,,09-Apr,55,50-59,40-59,M,Mysore,Karnataka,Traced,Local Traced,,,,Contact with P104 and father of P154,,154,1,,30.04.2020
+184,,0,0,73,pharma,6,,09-Apr,68,60-69,60+,M,Mysore,Karnataka,Traced,Local Traced,,,,Father,,159,0,,21.04.2020
+185,,0,0,55,pharma,3,,09-Apr,32,30-39,20-39,M,Mandya,Karnataka,Traced,Local Traced,,,,,,78,0,,26.04.2020
+200,,0,0,73,pharma,6,,10-Apr,8,0-9,0-19,M,Mysore,Karnataka,Traced,Local Traced,,,,Contact of P159 and son of P103,,103,0,,21.04.2020
+201,,0,0,73,pharma,6,,10-Apr,48,40-49,40-59,F,Mysore,Karnataka,Traced,Local Traced,,,,Mother in law,,103,0,,28.04.2020
+202,,0,0,64,pharma,10,,10-Apr,33,30-39,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,111,0,D,22.04.2020
+203,,0,0,61,pharma,2,,10-Apr,28,20-29,20-39,F,Mysore,Karnataka,Traced,Local Traced,,,,Wife,,85,0,,03.05.2020
+204,,0,0,74,pharma,4,,10-Apr,48,40-49,40-59,F,Mysore,Karnataka,Traced,Local Traced,,,,Wife,,183,0,,14.05.2020
+209,,0,0,64,pharma,10,,11-Apr,46,40-49,40-59,M,Mysore,Karnataka,Traced,Local Traced,,,,,,88,0,,26.04.2020
+210,,0,0,64,pharma,10,,11-Apr,43,40-49,40-59,M,Mysore,Karnataka,Traced,Local Traced,,,,,,88,0,,26.04.2020
+212,,0,0,64,pharma,10,,11-Apr,27,20-29,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,88,0,,04.05.2020
+213,,0,0,64,pharma,10,,11-Apr,31,30-39,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,88,0,,28.04.2020
+214,,0,0,64,pharma,10,,11-Apr,26,20-29,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,88,0,,26.04.2020
+216,,0,0,64,pharma,10,,12-Apr,32,30-39,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,Contact,,88,0,,28.04.2020
+264,,0,0,149,pharma,1,pharma,15-Apr,41,40-49,40-59,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,27.04.2020
+265,,0,0,150,pharma,1,pharma,15-Apr,30,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,03.05.2020
+266,,0,0,151,pharma,1,pharma,15-Apr,27,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,27.04.2020
+267,,1,1,152,pharma,2,pharma,15-Apr,35,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,1,,03.05.2020
+268,,0,0,153,pharma,1,pharma,15-Apr,26,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,07.05.2020
+269,,0,0,154,pharma,1,pharma,15-Apr,23,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,27.04.2020
+270,,0,0,155,pharma,1,pharma,15-Apr,35,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,30.04.2020
+271,,0,0,156,pharma,1,pharma,15-Apr,28,20-29,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,27.04.2020
+272,,0,0,157,pharma,1,pharma,15-Apr,32,30-39,20-39,M,Nanjangud,Karnataka,Pharma Company ,Local Untraced,,,Pharmaceutical Company in Nanjangud,,,Ph,0,,05.05.2020
+303,,0,0,169,pharma,1,pharma,16-Apr,52,50-59,40-59,M,Mysore,Karnataka,Pharma Company ,Local Untraced,,,Unknown,Pharma Company Worker,,Ph,0,,30.04.2020
+312,,0,0,54,pharma,2,,16-Apr,26,20-29,20-39,F,Mysore,Karnataka,Traced,Local Traced,,,,Wife,,77,0,,28.04.2020
+318,,0,0,42,pharma,32,,17-Apr,50,50-59,40-59,F,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,29.04.2020
+319,,1,1,42,pharma,32,,17-Apr,33,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,1,,09.05.2020
+320,,0,0,42,pharma,32,,17-Apr,33,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,03.05.2020
+341,,0,0,42,pharma,32,,17-Apr,22,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,
+342,,0,0,42,pharma,32,,17-Apr,38,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,29.04.2020
+343,,0,0,42,pharma,32,,17-Apr,38,30-39,20-39,M,Mysore,Karnataka,Traced,Local Traced,,,,,,52,0,,29.04.2020
+344,,0,0,42,pharma,32,,17-Apr,26,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,03.05.2020
+345,,0,0,42,pharma,32,,17-Apr,28,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,29.04.2020
+346,,1,1,42,pharma,32,,17-Apr,22,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,1,,29.04.2020
+347,,0,0,42,pharma,32,,17-Apr,29,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,29.04.2020
+348,,0,0,42,pharma,32,,17-Apr,26,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,52,0,,29.04.2020
+365,,0,0,42,pharma,32,,18-Apr,30,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,0,,30.04.2020
+366,,0,0,42,pharma,32,,18-Apr,50,50-59,40-59,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,0,,30.04.2020
+375,,0,0,152,pharma,2,,18-Apr,26,20-29,20-39,F,Nanjangud,Karnataka,Traced,Local Traced,,,,Wife,,267,0,,03.05.2020
+382,,1,1,42,pharma,32,,18-Apr,30,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,1,,04.05.2020
+383,,1,1,42,pharma,32,,18-Apr,36,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,1,,01.05.2020
+384,,0,0,42,pharma,32,,18-Apr,28,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,0,,05.05.2020
+387,,0,0,42,pharma,32,,19-Apr,39,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,0,,05.05.2020
+388,,0,0,42,pharma,32,,19-Apr,23,20-29,20-39,F,Nanjangud,Karnataka,Traced,Local Traced,,,,,,319,0,,03.05.2020
+416,,0,0,42,pharma,32,,21-Apr,26,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,0,,03.05.2020
+417,,0,0,42,pharma,32,,21-Apr,26,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,0,,03.05.2020
+426,,1,1,42,pharma,32,,22-Apr,56,50-59,40-59,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,383,1,,03.05.2020
+427,,1,1,42,pharma,32,,22-Apr,32,30-39,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,Secondary Contact,,52,1,,
+440,,0,0,42,pharma,32,,23-Apr,43,40-49,40-59,M,Bangalore-Urban,Karnataka,Traced,Local Traced,,,,,,426,0,,17.05.2020
+441,,0,0,42,pharma,32,,23-Apr,24,20-29,20-39,M,Bangalore-Urban,Karnataka,Traced,Local Traced,,,,,,427,0,,08.05.2020
+481,,0,0,55,pharma,3,,25-Apr,37,30-39,20-39,M,Mandya,Karnataka,Traced,Local Traced,,,,,,78,0,,20.05.2020
+497,,0,0,42,pharma,32,,25-Apr,50,50-59,40-59,F,Nanjangud,Karnataka,Traced,Local Traced,,,,,,382,0,,09.05.2020
+534,,0,0,42,pharma,32,,29-Apr,26,20-29,20-39,M,Nanjangud,Karnataka,Traced,Local Traced,,,,,,346,0,,

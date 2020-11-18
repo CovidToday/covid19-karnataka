@@ -1,0 +1,108 @@
+. . glm outcome b2.v_agebroad i.v_sex i.v_delay, fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      4347
+Optimization     : ML                              Residual df     =      4340
+                                                   Scale parameter =         1
+Deviance         =  1679.495233                    (1/df) Deviance =  .3869805
+Pearson          =  4204.535441                    (1/df) Pearson  =   .968787
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .5524489
+Log pseudolikelihood = -1193.747617                BIC             = -34677.73
+
+------------------------------------------------------------------------------
+             |               Robust
+     outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  v_agebroad |
+         0-  |   8.10e-07   1.64e-07   -69.31   0.000     5.45e-07    1.20e-06
+         6-  |   1.889003   .3889639     3.09   0.002     1.261717    2.828155
+        45-  |   .9790106   .1133257    -0.18   0.855     .7802903     1.22834
+        65-  |   .7336945   .1118316    -2.03   0.042      .544218    .9891397
+             |
+       v_sex |
+       Male  |    .511765    .052384    -6.54   0.000     .4187376    .6254594
+             |
+     v_delay |
+        >=4  |   3.012401     .54957     6.04   0.000     2.106799    4.307273
+       _cons |   .0527309   .0093979   -16.51   0.000     .0371844    .0747774
+------------------------------------------------------------------------------
+
+. . glm outcome i.v_delayindex , fam(poisson) link(log) nolog vce(robust) eform
+v_delayindex:  string variables may not be used as factor variables
+r(109);
+
+. . glm outcome  i.v_delay, fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      4347
+Optimization     : ML                              Residual df     =      4345
+                                                   Scale parameter =         1
+Deviance         =  1735.189051                    (1/df) Deviance =  .3993531
+Pearson          =  3992.999909                    (1/df) Pearson  =  .9189873
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .5629604
+Log pseudolikelihood = -1221.594526                BIC             = -34663.92
+
+------------------------------------------------------------------------------
+             |               Robust
+     outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+     v_delay |
+        >=4  |   2.558002     .41537     5.78   0.000     1.860725    3.516572
+       _cons |   .0375802   .0057584   -21.41   0.000     .0278311    .0507443
+------------------------------------------------------------------------------
+
+. . glm outcome i.v_sex , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      4788
+Optimization     : ML                              Residual df     =      4786
+                                                   Scale parameter =         1
+Deviance         =  1851.009342                    (1/df) Deviance =   .386755
+Pearson          =  4420.999332                    (1/df) Pearson  =  .9237358
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .5407288
+Log pseudolikelihood = -1292.504671                BIC             = -38704.92
+
+------------------------------------------------------------------------------
+             |               Robust
+     outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+       v_sex |
+       Male  |   .5311113   .0534291    -6.29   0.000     .4360696    .6468674
+       _cons |   .1155556   .0087018   -28.66   0.000     .0996993    .1339337
+------------------------------------------------------------------------------
+
+. . glm outcome b2.v_agebroad, fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =      4788
+Optimization     : ML                              Residual df     =      4783
+                                                   Scale parameter =         1
+Deviance         =  1866.467554                    (1/df) Deviance =  .3902295
+Pearson          =  4420.999575                    (1/df) Pearson  =  .9243152
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .5452104
+Log pseudolikelihood = -1300.233777                BIC             = -38664.04
+
+------------------------------------------------------------------------------
+             |               Robust
+     outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  v_agebroad |
+         0-  |   .1323841   .1320803    -2.03   0.043     .0187322    .9355868
+         6-  |   1.183816   .2677861     0.75   0.456      .759867    1.844298
+        45-  |   1.076656   .1224495     0.65   0.516     .8615269    1.345505
+        65-  |   .6871116    .100631    -2.56   0.010     .5156612    .9155669
+             |
+       _cons |   .0812236   .0062744   -32.50   0.000     .0698117     .094501
+------------------------------------------------------------------------------

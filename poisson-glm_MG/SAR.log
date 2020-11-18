@@ -1,0 +1,112 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\asus\Desktop\SAR.log
+  log type:  text
+ opened on:   7 Nov 2020, 22:27:44
+
+. . glm outcome b2.v_agebroad i.v_sex i.v_sympindex , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =     16715
+Optimization     : ML                              Residual df     =     16708
+                                                   Scale parameter =         1
+Deviance         =  3739.476291                    (1/df) Deviance =  .2238135
+Pearson          =   16099.9466                    (1/df) Pearson  =  .9636071
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .2975457
+Log pseudolikelihood = -2479.738145                BIC             = -158730.1
+
+-------------------------------------------------------------------------------
+              |               Robust
+      outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+--------------+----------------------------------------------------------------
+   v_agebroad |
+         0-5  |   .2138061   .1235987    -2.67   0.008     .0688574    .6638796
+        6-18  |   .4658157   .0899743    -3.96   0.000     .3190075    .6801856
+       45-64  |   1.025459   .0971261     0.27   0.791     .8517204    1.234638
+         65+  |   .8914336   .1092208    -0.94   0.348     .7011284    1.133393
+              |
+      1.v_sex |   .7796403   .0639513    -3.03   0.002     .6638548    .9156204
+1.v_sympindex |   3.632101   .3316504    14.13   0.000     3.036924    4.343921
+        _cons |   .0265605   .0020851   -46.22   0.000     .0227726    .0309785
+-------------------------------------------------------------------------------
+
+. . glm outcome b2.v_agebroad , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =     16715
+Optimization     : ML                              Residual df     =     16710
+                                                   Scale parameter =         1
+Deviance         =  3962.366638                    (1/df) Deviance =  .2371255
+Pearson          =  16104.99968                    (1/df) Pearson  =  .9637941
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .3106411
+Log pseudolikelihood = -2591.183319                BIC             = -158526.7
+
+------------------------------------------------------------------------------
+             |               Robust
+     outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  v_agebroad |
+        0-5  |   .2225313   .1285738    -2.60   0.009     .0717109    .6905528
+       6-18  |   .4007624   .0783957    -4.67   0.000     .2731354    .5880252
+      45-64  |   1.470481   .1373829     4.13   0.000      1.22443    1.765976
+        65+  |   1.453454   .1659875     3.27   0.001     1.161963    1.818069
+             |
+       _cons |   .0346562   .0019125   -60.93   0.000     .0311033    .0386149
+------------------------------------------------------------------------------
+
+. . glm outcome  i.v_sex , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =     16715
+Optimization     : ML                              Residual df     =     16713
+                                                   Scale parameter =         1
+Deviance         =  4037.004266                    (1/df) Deviance =  .2415488
+Pearson          =        16105                    (1/df) Pearson  =  .9636211
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .3147475
+Log pseudolikelihood = -2628.502133                BIC             = -158481.2
+
+------------------------------------------------------------------------------
+             |               Robust
+     outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+     1.v_sex |   .8888317   .0735156    -1.42   0.154     .7558166    1.045256
+       _cons |   .0394124   .0026044   -48.94   0.000     .0346247    .0448622
+------------------------------------------------------------------------------
+
+. . glm outcome i.v_sympindex , fam(poisson) link(log) nolog vce(robust) eform
+
+Generalized linear models                          No. of obs      =     16715
+Optimization     : ML                              Residual df     =     16713
+                                                   Scale parameter =         1
+Deviance         =  3777.523871                    (1/df) Deviance =  .2260231
+Pearson          =  16104.99924                    (1/df) Pearson  =  .9636211
+
+Variance function: V(u) = u                        [Poisson]
+Link function    : g(u) = ln(u)                    [Log]
+
+                                                   AIC             =  .2992237
+Log pseudolikelihood = -2498.761936                BIC             = -158740.7
+
+-------------------------------------------------------------------------------
+              |               Robust
+      outcome |        IRR   Std. Err.      z    P>|z|     [95% Conf. Interval]
+--------------+----------------------------------------------------------------
+1.v_sympindex |   3.762156    .304426    16.37   0.000     3.210402    4.408738
+        _cons |   .0203739   .0012936   -61.32   0.000     .0179899     .023074
+-------------------------------------------------------------------------------
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\asus\Desktop\SAR.log
+  log type:  text
+ closed on:   7 Nov 2020, 22:28:38
+---------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,99 @@
+﻿ID,children_sec,children_all,children_pri,cluster_id,cluster_3,cluster_size,common_exposure,dt_conf,age,age_class,AgeBins(Large),sex,City,State,Category_deprecated,cat_4,cat_2,cluster_final,Cluster,Reason,D,parentid,haschildren,RE,dt_out
+TJ,,,,,,,,,,,,,,,,,,,,,,,,,
+114,,0,0,78,tj,1,TJ,02-Apr,48,40-49,40-59,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+115,,0,0,79,tj,1,TJ,02-Apr,30,30-39,20-39,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+116,,0,0,80,tj,1,TJ,02-Apr,41,40-49,40-59,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+117,,1,1,81,tj,2,TJ,02-Apr,66,60-69,60+,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,23.04.2020
+118,,0,0,82,tj,1,TJ,02-Apr,59,50-59,40-59,M,Basavakalyan in Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+119,,0,0,83,tj,1,TJ,02-Apr,39,30-39,20-39,M,Bidar although resident of Paheli Chouki in Hyderabad,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+120,,0,0,84,tj,1,TJ,02-Apr,60,60-69,60+,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+121,,0,0,85,tj,1,TJ,02-Apr,63,60-69,60+,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0, ,02.05.2020
+122,,1,1,86,tj,4,TJ,02-Apr,73,70-79,60+,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,23.04.2020
+123,,0,0,87,tj,1,TJ,02-Apr,45,40-49,40-59,M,Bidar,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,23.04.2020
+124,,1,1,88,tj,3,TJ,02-Apr,60,60-69,60+,F,Kalburgi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Contact of someone who attended the Congregation,,0,1,,24.04.2020
+126,,0,0,90,tj,1,TJ,03-Apr,70,70-79,60+,M,Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,21.04.2020
+127,,5,5,91,tj,6,TJ,03-Apr,26,20-29,20-39,M,Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,29.04.2020
+128,10,15,5,92,tj,46,TJ,03-Apr,20,20-29,20-39,M,Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,21.04.2020
+143,,0,0,97,tj,1,TJ,04-Apr,43,40-49,40-59,M,Mangalore in Dakshin-Kannada,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,18.04.2020
+144,,0,0,98,tj,1,TJ,04-Apr,52,50-59,40-59,M,Mangalore in Dakshin-Kannada,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,18.04.2020
+147,,0,0,101,tj,1,TJ,05-Apr,36,30-39,20-39,F,Raibagh in Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,
+148,,1,1,102,tj,2,TJ,05-Apr,40,40-49,40-59,M,Raibagh in Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,21.04.2020
+149,,3,3,103,tj,13,TJ,05-Apr,67,60-69,60+,F,Raibagh in Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,02.05.2020
+150,,4,4,104,tj,7,TJ,05-Apr,41,40-49,40-59,F,Raibagh in Belgavi,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,1,,25.04.2020
+151,,0,0,105,tj,1,TJ,05-Apr,41,40-49,40-59,M,Bellary,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,26.04.2020
+163,,0,0,112,tj,1,TJ,06-Apr,43,40-49,40-59,M,Bangalore-Rural ,Karnataka,TJ,Imported Domestic,,,TJ Congregation from 13th to 18th March in Delhi,Attended Congregation,,0,0,,21.04.2020
+174,,1,1,88,tj,3,,07-Apr,28,20-29,20-39,F,Kalburgi,Karnataka,Traced,Local Traced,,,,Daughter in law,,124,1,,24.04.2020
+182,,0,0,92,tj,46,,09-Apr,50,50-59,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,Father,,128,0,,26.04.2020
+192,,0,0,92,tj,46,,09-Apr,40,40-49,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,Mother,,128,0,,26.04.2020
+193,,0,0,92,tj,46,,09-Apr,22,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Brother,,128,0,,04.05.2020
+211,,2,2,86,tj,4,,11-Apr,50,50-59,40-59,F,Bidar,Karnataka,Traced,Local Traced,,,,Wife of brother,,122,1,,02.05.2020
+223,,0,0,104,tj,7,,12-Apr,19,10-19,0-19,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,150,0,,19.05.2020
+224,,7,7,92,tj,46,,12-Apr,38,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,128,1,,06.05.2020
+225,,2,2,104,tj,7,,12-Apr,55,50-59,40-59,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,150,1,,06.05.2020
+226,,0,0,104,tj,7,,12-Apr,25,20-29,20-39,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,150,0,,02.05.2020
+241,,0,0,86,tj,4,,13-Apr,16,10-19,0-19,F,Bidar,Karnataka,Traced,Local Traced,,,,Daughter of Brother,,211,0,,07.05.2020
+242,,0,0,86,tj,4,,13-Apr,35,30-39,20-39,F,Bidar,Karnataka,Traced,Local Traced,,,,Daughter,,211,0,,07.05.2020
+243,,0,0,103,tj,13,,13-Apr,20,20-29,20-39,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,149,0,,06.05.2020
+244,,0,0,103,tj,13,,13-Apr,14,10-19,0-19,F,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,149,0,,06.05.2020
+245,,4,4,103,tj,13,,13-Apr,45,40-49,40-59,F,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,149,1,,06.05.2020
+279,,0,0,92,tj,46,,15-Apr,80,80+,60+,F,Belgavi,Karnataka,Traced,Local Traced,,,,,D,224,0,,15.04.2020
+282,,0,0,104,tj,7,,16-Apr,51,50-59,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,225,0,,02.05.2020
+283,,0,0,92,tj,46,,16-Apr,42,40-49,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,224,0,,02.05.2020
+284,,0,0,104,tj,7,,16-Apr,33,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,225,0,,10.05.2020
+285,,0,0,92,tj,46,,16-Apr,16,10-19,0-19,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,224,0,,02.05.2020
+286,,0,0,92,tj,46,,16-Apr,65,60-69,60+,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,224,0,,02.05.2020
+287,,0,0,92,tj,46,,16-Apr,30,30-39,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,224,0,,10.05.2020
+288,,0,0,92,tj,46,,16-Apr,54,50-59,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,224,0,,02.05.2020
+289,,0,0,92,tj,46,,16-Apr,58,50-59,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,224,0,,06.05.2020
+298,,0,0,103,tj,13,,16-Apr,50,50-59,40-59,M,Raibagh in Belgavi although resident of Goa,Karnataka,Traced,Local Traced,,,,,,245,0,,06.05.2020
+299,,0,0,103,tj,13,,16-Apr,35,30-39,20-39,M,Raibagh in Belgavi although resident of Vijayapura,Karnataka,Traced,Local Traced,,,,,,245,0,,04.05.2020
+300,,0,0,103,tj,13,,16-Apr,25,20-29,20-39,M,Raibagh in Belgavi although resident of Miraj in MH,Karnataka,Traced,Local Traced,,,,,,245,0,,10.05.2020
+301,3,3,0,103,tj,13,,16-Apr,64,60-69,60+,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,245,1,,04.05.2020
+355,,0,0,91,tj,6,,17-Apr,34,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,127,0,,04.05.2020
+356,,0,0,91,tj,6,,17-Apr,17,10-19,0-19,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,127,0,,04.05.2020
+357,,0,0,91,tj,6,,17-Apr,46,40-49,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,127,0,,
+358,,0,0,91,tj,6,,17-Apr,37,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,127,0,,04.05.2020
+359,,0,0,91,tj,6,,17-Apr,38,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,127,0,,04.05.2020
+361,,0,0,88,tj,3,,18-Apr,16,10-19,0-19,M,Shahbad in Kalburgi,Karnataka,Traced,Local Traced,,,,,,174,0,,04.05.2020
+364,,1,1,92,tj,46,,18-Apr,45,40-49,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,128,1,,
+408,,0,0,81,tj,2,,20-Apr,27,20-29,20-39,M,Bidar,Karnataka,Traced,Local Traced,,,,,,117,0,,13.05.2020
+448,,0,0,104,tj,7,,24-Apr,10,10-19,0-19,F,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,150,0,,18.05.2020
+463,,0,0,102,tj,2,,24-Apr,15,10-19,0-19,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,,,148,0,,
+482,,0,0,92,tj,46,,25-Apr,45,40-49,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,0,,13.05.2020
+483,2,2,0,92,tj,46,,25-Apr,38,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,1,,22.05.2020
+484,,1,1,92,tj,46,,25-Apr,80,80+,60+,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,1,,18.05.2020
+485,,2,2,92,tj,46,,25-Apr,55,50-59,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,1,,13.05.2020
+486,3,3,0,92,tj,46,,25-Apr,42,40-49,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,1,,13.05.2020
+487,,0,0,92,tj,46,,25-Apr,39,30-39,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,0,,13.05.2020
+494,,1,1,92,tj,46,,25-Apr,20,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,1,,13.05.2020
+495,,0,0,92,tj,46,,25-Apr,8,0-9,0-19,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,0,,18.05.2020
+496,,4,4,92,tj,46,,25-Apr,30,30-39,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,1,,18.05.2020
+539,,1,1,92,tj,46,,30-Apr,24,20-29,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact of P496-P483 and P484,,496,1,,
+540,,0,0,92,tj,46,,30-Apr,27,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,483,0,,
+543,,0,0,92,tj,46,,30-Apr,24,20-29,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,486,0,,
+544,,0,0,92,tj,46,,30-Apr,18,10-19,0-19,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,496,0,,
+545,,0,0,92,tj,46,,30-Apr,48,40-49,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,494,0,,25.05.2020
+546,,0,0,92,tj,46,,30-Apr,50,50-59,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,483,0,,
+547,,4,4,92,tj,46,,30-Apr,27,20-29,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact of P496 and P483 ,,496,1,,
+548,,1,1,92,tj,46,,30-Apr,43,40-49,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,484,1,,
+549,,0,0,92,tj,46,,30-Apr,16,10-19,0-19,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,486,0,,
+550,,0,0,92,tj,46,,30-Apr,36,30-39,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,486,0,,
+552,,2,2,92,tj,46,,30-Apr,36,30-39,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,496,1,,
+574,,0,0,103,tj,13,,01-May,55,50-59,40-59,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,301,0,,01.06.2020
+575,1,2,1,103,tj,13,,01-May,30,30-39,20-39,F,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,301,1,,
+576,,0,0,103,tj,13,,01-May,50,50-59,40-59,M,Raibagh in Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,301,0,,
+596,,0,0,92,tj,46,,02-May,23,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,128,0,,19.05.2020
+700,,0,0,92,tj,46,,07-May,13,10-19,0-19,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,364,0,,25.05.2020
+713,,0,0,92,tj,46,,08-May,58,50-59,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,Contact of P485 and P483,,485,0,,25.05.2020
+714,,0,0,92,tj,46,,08-May,30,30-39,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,552,0,,25.05.2020
+715,,0,0,92,tj,46,,08-May,20,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Contact of P485 and P496,,485,0,,25.05.2020
+716,,0,0,92,tj,46,,08-May,16,10-19,0-19,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,552,0,,28.05.2020
+717,,0,0,92,tj,46,,08-May,21,20-29,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,547,0,,01.06.2020
+718,,0,0,92,tj,46,,08-May,45,40-49,40-59,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,547,0,,25.05.2020
+719,,0,0,92,tj,46,,08-May,26,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,547,0,,
+720,,0,0,92,tj,46,,08-May,38,30-39,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,548,0,,25.05.2020
+721,,1,1,92,tj,46,,08-May,20,20-29,20-39,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,547,1,,01.06.2020
+722,,0,0,92,tj,46,,08-May,23,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Contact of P539 and P552,,539,0,,25.05.2020
+723,,0,0,103,tj,13,,08-May,20,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,,,575,0,,01.06.2020
+1226,,0,0,103,tj,13,,18-May,23,20-29,20-39,M,Belgavi,Karnataka,Traced,Local Traced,,,,Secondary Contact,,575,0,,02.06.2020
+1562,,0,0,92,tj,46,,21-May,43,40-49,40-59,F,Belgavi,Karnataka,Traced,Local Traced,,,,,,721,0,,02.06.2020
